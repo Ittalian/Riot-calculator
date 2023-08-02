@@ -1,2 +1,2 @@
 Riot.jsフレームワークを使用した簡易電卓
-#eadme.mdにriotの詳細が書いてあります
+readme.mdにriotの詳細が書いてあります
